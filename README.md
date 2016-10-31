@@ -7,13 +7,10 @@ Google material design/ flat design I made for Unity3D, really simple but very u
 Project Screenshot
 -------------
 
-![alt tag](http://i.imgur.com/U88oaHN.png)
+![alt tag](http://i.imgur.com/tFzPXym.png)
 
 
-Try Online
+How to?
 -------------
 
-You can play it online at:
-
-[itch.io](https://dreamroadproductions.itch.io/supersnake)
-[gamejolt.com](http://gamejolt.com/dashboard/games/196406)
+Download this project, open on unity3D 5.4.1f1 or newer, go to "Scenes" folder, open the main scene, run the project.

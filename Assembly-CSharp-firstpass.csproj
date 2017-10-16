@@ -52,7 +52,6 @@
      <Compile Include="Assets\Plugins\LeanAudio.cs" />
      <Compile Include="Assets\Plugins\LeanTest.cs" />
      <Compile Include="Assets\Plugins\LeanTween.cs" />
-     <None Include="Assets\LeanTween\Examples\Archived\2dUnlitWithFade.shader" />
      <None Include="Assets\LeanTween\ReadMe.txt" />
      <None Include="Assets\LeanTween\License.txt" />
  <Reference Include="UnityEngine.UI">

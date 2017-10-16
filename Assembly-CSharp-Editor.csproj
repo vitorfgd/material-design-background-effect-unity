@@ -47,12 +47,8 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\LeanTween\Editor\LeanTweenDocumentationEditor.cs" />
-     <None Include="Assets\LeanTween\Examples\Archived\2dUnlitWithFade.shader" />
      <None Include="Assets\LeanTween\ReadMe.txt" />
      <None Include="Assets\LeanTween\License.txt" />
- <Reference Include="Assembly-UnityScript">
- <HintPath>/Users/vitorfigueredo/Documents/flat_background_effect_unity3D/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
- </Reference>
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll</HintPath>
  </Reference>
